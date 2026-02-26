@@ -143,6 +143,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.95"
   },
+  "114.19.166.236": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Funabashi",
+    "zip": "273-0001",
+    "lat": 35.7025,
+    "lon": 139.997,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "114.19.166.236"
+  },
   "222.0.156.168": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +222,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.74.224"
+  },
+  "123.198.74.19": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kamiochiai",
+    "zip": "338-0001",
+    "lat": 35.8924,
+    "lon": 139.6224,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "123.198.74.19"
   },
   "211.224.12.224": {
     "status": "success",
@@ -335,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.56.116.195"
   },
-  "126.241.51.159": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.241.51.159"
-  },
   "186.158.28.142": {
     "status": "success",
     "country": "Argentina",
@@ -414,22 +430,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "175.201.95.90"
-  },
-  "116.12.3.7": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kasugai",
-    "zip": "486-0921",
-    "lat": 35.2371,
-    "lon": 136.9719,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Incorporated.",
-    "org": "Community Network Center Inc.",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "116.12.3.7"
   },
   "49.228.178.156": {
     "status": "success",
@@ -574,21 +574,5 @@
     "org": "DLIVE Gyeonggi Cable TV",
     "as": "AS10036 DLIVE",
     "query": "120.142.213.196"
-  },
-  "211.204.253.136": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Namdong-gu",
-    "zip": "216",
-    "lat": 37.4135,
-    "lon": 126.7153,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.204.253.136"
   }
 }
