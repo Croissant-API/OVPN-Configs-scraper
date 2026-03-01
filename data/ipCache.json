@@ -303,22 +303,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "61.196.82.181": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "Open Data Network",
-    "org": "Open Data Network",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "61.196.82.181"
-  },
   "220.87.63.220": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +478,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.56.116.195"
+  },
+  "115.74.186.30": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VIETELxdsl",
+    "org": "xDSL Services",
+    "as": "AS7552 Viettel Group",
+    "query": "115.74.186.30"
   },
   "61.253.143.105": {
     "status": "success",
