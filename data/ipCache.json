@@ -431,6 +431,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.27.4"
   },
+  "175.209.69.101": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "056",
+    "lat": 37.508,
+    "lon": 127.1177,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.209.69.101"
+  },
   "219.54.205.137": {
     "status": "success",
     "country": "Japan",
@@ -527,22 +543,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.213.238.177"
   },
-  "59.1.16.117": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "549",
-    "lat": 35.8345,
-    "lon": 127.1057,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.1.16.117"
-  },
   "185.199.8.39": {
     "status": "success",
     "country": "Russia",
@@ -622,6 +622,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.221.9"
+  },
+  "175.177.44.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4338,
+    "lon": 139.6496,
+    "timezone": "Asia/Tokyo",
+    "isp": "its communications Inc.",
+    "org": "its communications Inc.",
+    "as": "AS9365 its communications Inc.",
+    "query": "175.177.44.75"
   },
   "42.115.10.106": {
     "status": "success",
