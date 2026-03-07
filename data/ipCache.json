@@ -111,22 +111,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.1.14.249"
   },
-  "219.115.184.198": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Sakai",
-    "zip": "590-0071",
-    "lat": 34.5742,
-    "lon": 135.4777,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "J:COM WEST Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "219.115.184.198"
-  },
   "219.100.37.125": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "InfoSphere",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "210.139.111.67"
+  },
+  "153.211.41.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.211.41.111"
   },
   "175.209.13.17": {
     "status": "success",
@@ -223,22 +223,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "220.102.233.254"
   },
-  "103.6.170.220": {
-    "status": "success",
-    "country": "Australia",
-    "countryCode": "AU",
-    "region": "NSW",
-    "regionName": "New South Wales",
-    "city": "Sydney",
-    "zip": "NSW 2015",
-    "lat": -33.8688,
-    "lon": 151.2092,
-    "timezone": "Australia/Sydney",
-    "isp": "Kamatera, Inc.",
-    "org": "",
-    "as": "AS36007 Kamatera, Inc.",
-    "query": "103.6.170.220"
-  },
   "59.11.12.114": {
     "status": "success",
     "country": "South Korea",
@@ -254,6 +238,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.11.12.114"
+  },
+  "103.6.170.220": {
+    "status": "success",
+    "country": "Australia",
+    "countryCode": "AU",
+    "region": "NSW",
+    "regionName": "New South Wales",
+    "city": "Sydney",
+    "zip": "NSW 2015",
+    "lat": -33.8688,
+    "lon": 151.2092,
+    "timezone": "Australia/Sydney",
+    "isp": "Kamatera, Inc.",
+    "org": "",
+    "as": "AS36007 Kamatera, Inc.",
+    "query": "103.6.170.220"
   },
   "121.183.246.237": {
     "status": "success",
@@ -335,6 +335,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.44.180.76"
   },
+  "59.140.6.12": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Masuda",
+    "zip": "981-1221",
+    "lat": 38.1805,
+    "lon": 140.8679,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.140.6.12"
+  },
   "14.32.227.179": {
     "status": "success",
     "country": "South Korea",
@@ -367,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.34.170.219"
   },
-  "37.140.94.198": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Yuzhnoural'sk",
-    "zip": "457043",
-    "lat": 54.4505,
-    "lon": 61.2576,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.94.198"
-  },
   "122.43.155.16": {
     "status": "success",
     "country": "South Korea",
@@ -398,6 +398,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.43.155.16"
+  },
+  "37.140.94.198": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Yuzhnoural'sk",
+    "zip": "457043",
+    "lat": 54.4505,
+    "lon": 61.2576,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "37.140.94.198"
   },
   "171.96.175.49": {
     "status": "success",
@@ -495,22 +511,6 @@
     "as": "AS18134 JCOM Co., Ltd.",
     "query": "122.50.43.110"
   },
-  "188.113.151.61": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAK",
-    "regionName": "Sakhalin Oblast",
-    "city": "Yuzhno-Sakhalinsk",
-    "zip": "693003",
-    "lat": 46.9557,
-    "lon": 142.733,
-    "timezone": "Asia/Sakhalin",
-    "isp": "Sakhalin Cable Telesystems Ltd",
-    "org": "Sakhalin Cable Telesystems Ltd",
-    "as": "AS51004 Sakhalin Cable Telesystems Ltd",
-    "query": "188.113.151.61"
-  },
   "202.140.202.248": {
     "status": "success",
     "country": "Japan",
@@ -526,6 +526,22 @@
     "org": "Toshima Cable Network Co., ltd",
     "as": "AS23808 TOSHIMA CABLE NETWORK CO.,LTD",
     "query": "202.140.202.248"
+  },
+  "188.113.151.61": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAK",
+    "regionName": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "zip": "693003",
+    "lat": 46.9557,
+    "lon": 142.733,
+    "timezone": "Asia/Sakhalin",
+    "isp": "Sakhalin Cable Telesystems Ltd",
+    "org": "Sakhalin Cable Telesystems Ltd",
+    "as": "AS51004 Sakhalin Cable Telesystems Ltd",
+    "query": "188.113.151.61"
   },
   "147.192.88.143": {
     "status": "success",
@@ -591,22 +607,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.6.62.245"
   },
-  "91.244.80.177": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0386,
-    "lon": 82.9425,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Telekom Ltd",
-    "org": "Telekom Ltd",
-    "as": "AS197831 Telekom Ltd",
-    "query": "91.244.80.177"
-  },
   "176.116.139.155": {
     "status": "success",
     "country": "Russia",
@@ -622,5 +622,21 @@
     "org": "Telecom.ru Ltd",
     "as": "AS50716 Telecom.ru Ltd",
     "query": "176.116.139.155"
+  },
+  "77.79.147.132": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "BA",
+    "regionName": "Bashkortostan Republic",
+    "city": "Ufa",
+    "zip": "450000",
+    "lat": 54.7431,
+    "lon": 55.9678,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS24955 JSC Ufanet",
+    "query": "77.79.147.132"
   }
 }
