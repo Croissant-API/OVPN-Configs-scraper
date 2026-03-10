@@ -111,22 +111,6 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "70.173.255.2"
   },
-  "91.223.169.218": {
-    "status": "success",
-    "country": "Sweden",
-    "countryCode": "SE",
-    "region": "AB",
-    "regionName": "Stockholm",
-    "city": "Stockholm",
-    "zip": "16494",
-    "lat": 59.3293,
-    "lon": 18.0685,
-    "timezone": "Europe/Stockholm",
-    "isp": "Kamatera, Inc.",
-    "org": "Cloudwebmanage EU ST",
-    "as": "AS36007 Kamatera, Inc.",
-    "query": "91.223.169.218"
-  },
   "68.8.69.224": {
     "status": "success",
     "country": "United States",
@@ -415,6 +399,22 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "213.5.16.194"
   },
+  "119.196.49.82": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.49.82"
+  },
   "183.99.142.201": {
     "status": "success",
     "country": "South Korea",
@@ -430,22 +430,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "183.99.142.201"
-  },
-  "211.198.67.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "jinuapateu",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.198.67.197"
   },
   "114.183.184.253": {
     "status": "success",
@@ -463,22 +447,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.183.184.253"
   },
-  "122.18.149.104": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0041",
-    "lat": 34.7615,
-    "lon": 135.5086,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "122.18.149.104"
-  },
   "37.113.159.99": {
     "status": "success",
     "country": "Russia",
@@ -494,6 +462,22 @@
     "org": "JSC \"ER-Telecom Holding\" Chelyabinsk Branch",
     "as": "AS41661 JSC ER-Telecom Holding",
     "query": "37.113.159.99"
+  },
+  "106.156.49.108": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Hidaka",
+    "zip": "350-1201",
+    "lat": 35.9058,
+    "lon": 139.3804,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.156.49.108"
   },
   "126.48.182.76": {
     "status": "success",
@@ -542,6 +526,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.59.9.103"
+  },
+  "49.228.238.225": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.238.225"
   },
   "46.147.173.148": {
     "status": "success",
