@@ -271,6 +271,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.11.113.207"
   },
+  "42.113.98.41": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.113.98.41"
+  },
   "60.125.195.98": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +302,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.125.195.98"
+  },
+  "126.107.193.33": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.107.193.33"
   },
   "49.250.207.81": {
     "status": "success",
@@ -415,6 +447,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.75.17.5"
   },
+  "119.193.226.172": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Guri-si",
+    "zip": "11927",
+    "lat": 37.5945,
+    "lon": 127.1321,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.193.226.172"
+  },
   "220.26.103.76": {
     "status": "success",
     "country": "Japan",
@@ -495,38 +543,6 @@
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "111.95.236.166"
   },
-  "221.160.158.53": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "28515",
-    "lat": 36.6378,
-    "lon": 127.4838,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.160.158.53"
-  },
-  "218.218.70.12": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "ULTINA",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "218.218.70.12"
-  },
   "211.58.39.152": {
     "status": "success",
     "country": "South Korea",
@@ -559,36 +575,20 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.108.98.234"
   },
-  "139.228.34.178": {
-    "status": "success",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "region": "JI",
-    "regionName": "East Java",
-    "city": "Surabaya",
-    "zip": "60115",
-    "lat": -7.2594,
-    "lon": 112.786,
-    "timezone": "Asia/Jakarta",
-    "isp": "PT. First Media, Tbk",
-    "org": "",
-    "as": "AS23700 Linknet-Fastnet ASN",
-    "query": "139.228.34.178"
-  },
-  "182.226.139.202": {
+  "27.1.231.98": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Osan",
-    "zip": "181",
-    "lat": 37.1549,
-    "lon": 127.0674,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "060",
+    "lat": 37.5245,
+    "lon": 127.0354,
     "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "182.226.139.202"
+    "isp": "KangNam CableTV",
+    "org": "DLIVE Gangnam Cable TV",
+    "as": "AS9943 KangNam CableTV",
+    "query": "27.1.231.98"
   }
 }
